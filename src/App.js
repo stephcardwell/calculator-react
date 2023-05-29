@@ -7,6 +7,7 @@ function App() {
         <div className="previous-opperand"></div>
         <div className="current-opperand"></div>
       </div>
+      <div></div>
       <button className="span-two">AC</button>
       <button>DEL</button>
       <button> ÷ </button>
